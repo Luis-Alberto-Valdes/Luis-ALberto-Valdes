@@ -3,7 +3,7 @@
 ### Desarrollador Fullstack especializado en el ecosistema de javascript
 
 Me apasiona la construcción de webs completas y mi objetivo es poder crear páginas complejas pudiendo formar parte en todo el proceso de desarrollo.
-- [Descargar mi CV en PDF](https://github.com/Luis-Alberto-Valdes/Luis-ALberto-Valdes/blob/main/Luis-Alberto-Valdes-CV.pdf)
+- [Descargar mi CV en PDF](https://github.com/Luis-Alberto-Valdes/Luis-ALberto-Valdes/raw/main/Luis-Alberto-Valdes-CV.pdf)
 ---
 
 ### 🛠️ Tecnologías y herramientas
